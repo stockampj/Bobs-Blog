@@ -2,33 +2,35 @@ body {
   background-color: #D5D5D5;
 }
 
-img {
-  height: 200px;
-}
 .about {
   background-color: #5C5D63;
   font-family: cursive;
   font-size: 20px;
-  color: #D5D5D5;
-  margin-left: 5%;
-  margin-right: 5%;
+  color: dark gray;
+  padding: 5px;
 }
 
 .important {
   color: #0A1D9A;
   font-weight: bold;
+  padding: 5px;
 }
 
 .unimportant {
   color: #5C5D63;
-  font-family: fantasy;
+  font-family: sans-serif;
+  padding: 5px;
 }
 
 .bio {
   border: 2px dotted white;
   padding: 5px;
   margin-left: 5%;
-  margin-right: 5%;
+  margin-right: 50%;
   background-color: #F8EDBC;
+}
 
+img {
+  height: 200px;
+  display: block;
 }
