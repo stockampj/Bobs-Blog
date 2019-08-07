@@ -1,3 +1,7 @@
+body {
+  background-color: #D5D5D5;
+}
+
 img {
   height: 200px;
 }
@@ -6,8 +10,8 @@ img {
   font-family: cursive;
   font-size: 20px;
   color: #D5D5D5;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .important {
@@ -16,12 +20,15 @@ img {
 }
 
 .unimportant {
-  background-color: #D5D5D5;
   color: #5C5D63;
   font-family: fantasy;
 }
 
 .pad {
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.pic {
+  
 }
