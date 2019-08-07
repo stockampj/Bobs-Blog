@@ -24,11 +24,11 @@ img {
   font-family: fantasy;
 }
 
-.pad {
+.bio {
+  border: 2px dotted white;
+  padding: 5px;
   margin-left: 5%;
   margin-right: 5%;
-}
+  background-color: #F8EDBC;
 
-.pic {
-  
 }
