@@ -1,0 +1,27 @@
+img {
+  height: 200px;
+}
+.about {
+  background-color: #5C5D63;
+  font-family: cursive;
+  font-size: 20px;
+  color: #D5D5D5;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.important {
+  color: #0A1D9A;
+  font-weight: bold;
+}
+
+.unimportant {
+  background-color: #D5D5D5;
+  color: #5C5D63;
+  font-family: fantasy;
+}
+
+.pad {
+  margin-left: 10%;
+  margin-right: 10%;
+}
